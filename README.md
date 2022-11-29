@@ -9,9 +9,11 @@ Kelas : TI.22.A1
 ## DAFTAR ISI <br>
 | No | Description | Link |
 |-----|------|-----|
-|1|Latihan|[Click Here](#latihan)|
-|2|Praktikum-5|[Click Here](#praktikum-5)|
-|3|Flowchart Praktikum-5|[Click Here](#flowchart-praktikum-5)|
+|1|Screenshot|[Click Here](#Screenshot)|
+|2|Flowchart|[Click Here](#Flowchart)|
+|3|Latihan|[Click Here](#Latihan)|
+|4|Praktikum6|[Click Here](#Praktikum6)|
+|5|README.md|[Click Here](#README.md)|
 
 ## Latihan
 Buat Dictionary daftar kontak
@@ -27,7 +29,8 @@ Buat Dictionary daftar kontak
 ### Langkah-langkah :
 1. Buat program terlebih dahulu seperti gambar di bawah ini
 
-![Screenshot (214)](https://user-images.githubusercontent.com/115867244/204136213-aa23be2d-0652-458d-b59d-0cd1d04bde5a.png)
+![Latihan1](https://user-images.githubusercontent.com/115677839/204454254-c2633904-950a-4842-a642-1878b2e0142e.png)
+
 
     daftarKontak = {"Nama":"Nomer Telpon"}
     kontak       = {'Ari':'081267888', 'Dina' : '087677776'}
@@ -79,9 +82,10 @@ Buat Dictionary daftar kontak
     
 2. Hasil Run
 
-![Screenshot (215)](https://user-images.githubusercontent.com/115867244/204136376-31daf9f5-eae7-49e6-b943-c7780d1dc106.png)
+![Runlatihan1](https://user-images.githubusercontent.com/115677839/204454429-a9255533-8519-464a-9709-ef67429f0821.png)
 
-![Screenshot (216)](https://user-images.githubusercontent.com/115867244/204136385-0482a094-e5ff-40f4-94fc-277e28714d64.png)
+![Runlatihan1 (2)](https://user-images.githubusercontent.com/115677839/204454484-2d796bbf-7d19-4df5-b5ad-bd928bdd3acf.png)
+
 
 ## Praktikum 5
 Buat program sederhana yang akan menampilkan daftar nilai mahasiswa, dengan ketentuan :
@@ -94,7 +98,9 @@ Buat program sederhana yang akan menampilkan daftar nilai mahasiswa, dengan kete
 ### Langkah-langkah :
 1. Buat programnya terlebih dahulu seperti gambar di bawah ini
 
-![Screenshot (217)](https://user-images.githubusercontent.com/115867244/204138112-82896320-aa27-46c1-bc42-e88745caac95.png)
+![Praktikum6](https://user-images.githubusercontent.com/115677839/204454603-202bfc2f-fca9-4e55-9d4a-90c527ec88bd.png)
+![Praktikum6 (2)](https://user-images.githubusercontent.com/115677839/204454641-309679b1-f9b7-4bf5-8504-121d239f70a7.png)
+![Praktikum6 (3)](https://user-images.githubusercontent.com/115677839/204454669-c5147d3d-5eb1-4f08-bff3-38c2ac514bda.png)
 
     print("====================================")
     print("======>  Program Input Nilai  <======")
@@ -162,9 +168,10 @@ Buat program sederhana yang akan menampilkan daftar nilai mahasiswa, dengan kete
             
 2. Hasil Run 
 
-![Screenshot (218)](https://user-images.githubusercontent.com/115867244/204138409-15951ea9-4379-4552-9759-dcafc1888323.png)
+![Runpraktikum6](https://user-images.githubusercontent.com/115677839/204454808-08356805-82b6-4f69-9c07-30638547a650.png)
 
-![Screenshot (219)](https://user-images.githubusercontent.com/115867244/204138424-ef87deff-66fb-4929-817a-87981e152b43.png)
+![Runpraktikum6 (2)](https://user-images.githubusercontent.com/115677839/204454859-3143dea5-7d37-4ffd-8c35-7ecab0ffcaf6.png)
+
 
 
 ### Penjelasan Program :
@@ -179,7 +186,8 @@ Buat program sederhana yang akan menampilkan daftar nilai mahasiswa, dengan kete
 
 ### Flowchart Praktikum-5
 
-![flowchart7_page-0001](https://user-images.githubusercontent.com/115867244/204285409-a9908a84-fa15-4d5e-8225-be7bf7afa66e.jpg)
+![flowchart](https://user-images.githubusercontent.com/115677839/204454973-4373cae8-6c1e-45bf-9f7d-122b70fb2b59.jpg)
 
 
-## Sekian, Terima kasih
+
+## Sekian Dari Saya,Terima kasih
